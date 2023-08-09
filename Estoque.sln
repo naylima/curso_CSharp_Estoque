@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estoque", "Estoque\Estoque.csproj", "{5A405D62-7E49-4D4B-85C4-1FC8BD7CF062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A405D62-7E49-4D4B-85C4-1FC8BD7CF062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A405D62-7E49-4D4B-85C4-1FC8BD7CF062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A405D62-7E49-4D4B-85C4-1FC8BD7CF062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A405D62-7E49-4D4B-85C4-1FC8BD7CF062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB934AAA-EE40-49D5-92D6-88B961C149A0}
+	EndGlobalSection
+EndGlobal
