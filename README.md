@@ -1,4 +1,4 @@
-# Estoque
+# Projeto Estoque
 
 ## Descrição:
 Desenvolvimento de um programa para gerenciar os dados de um produto em estoque.
